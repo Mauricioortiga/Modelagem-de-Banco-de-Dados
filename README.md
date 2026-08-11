@@ -10,8 +10,8 @@
 
 **Relevância Profissional e de Mercado:**
 
-Tomada de Decisão: Capacitar o profissional de tecnologia a estruturar, proteger e gerenciar dados de forma estratégica.
+**Tomada de Decisão:** Capacitar o profissional de tecnologia a estruturar, proteger e gerenciar dados de forma estratégica.
 
-Qualidade de Software: Garantir a criação de sistemas mais robustos, seguros e eficientes.
+**Qualidade de Software:** Garantir a criação de sistemas mais robustos, seguros e eficientes.
 
-Alinhamento do Mercado: Atender às exigências crescentes de um ecossistema digital em constante evolução.
+**Alinhamento do Mercado:** Atender às exigências crescentes de um ecossistema digital em constante evolução.
