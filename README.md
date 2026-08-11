@@ -1,9 +1,9 @@
-Objetivos de Aprendizagem:
+**Objetivos de Aprendizagem:**
 
-Construir a base teórica e prática essencial para o desenvolvimento de sistemas
+**1.** Construir a base teórica e prática essencial para o desenvolvimento de sistemas.
 
-Diferenciar conceitos fundamentais no fluxo de processamento de dados
+**2.** Diferenciar conceitos fundamentais no fluxo de processamento de dados.
 
-Compreender a responsabilidade ética e as normas legais no tratamento de dados.
+**3.** Compreender a responsabilidade ética e as normas legais no tratamento de dados.
 
-Conhecer os diferentes tipos de estruturas utilizadas no cenário tecnológico atual.
+**4.** Conhecer os diferentes tipos de estruturas utilizadas no cenário tecnológico atual.
