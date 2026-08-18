@@ -1,6 +1,6 @@
 Modelo conceitual (MER) - Modelo / Entidade / Relacionamento
 
--> Entidades: Conjunto de objetos ou conceitos que possuem as mesmas características em comum. (A ENTIDADE SERÁ SEMPRE UM SUBSTANTIVO)
+**-> Entidades: Conjunto de objetos ou conceitos que possuem as mesmas características em comum. (A ENTIDADE SERÁ SEMPRE UM SUBSTANTIVO)**
 
 Exemplo: Cliente, produto.
 
