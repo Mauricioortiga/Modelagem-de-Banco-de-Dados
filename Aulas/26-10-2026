@@ -1,0 +1,12 @@
+1) Union, Union All, Interact, Except
+
+2) Separar tabelas por vírgula
+
+Cidade (cod_cid, nome)1,1
+Cliente (ID, nome,cod.cid)1,n
+
+
+
+
+
+3) Join
